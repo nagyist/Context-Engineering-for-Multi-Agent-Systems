@@ -10,7 +10,10 @@ Move beyond prompting to build a Context Engine in a transparent architecture of
 This repository provides a production-ready blueprint for the Agentic Era, allowing you to replace rigid, hard-coded workflows with a dynamic, **transparent**, **observable**, and **sovereign** **Context Engine**. By building universal, domain-agnostic Multi-Agent Systems through high-level semantic orchestration, you can save thousands of lines of code while maintaining 100% observability.
 
 <br clear="left"/>
-<p align="center">Copyright 2025-2026, Denis Rothman. <strong>Last updated: May 11, 2026</strong></p>
+<p align="center">Copyright 2025-2026, Denis Rothman. <strong>Last updated: June 02, 2026</strong></p>
+
+**June 3, 2026 — New Gradio Standalone UI:** `Chapter10/Universal_Context_Engine_Gradio_UI.ipynb` now contains a deployable **Gradio web app** — live public URL in Colab, one-command deploy to Hugging Face Spaces.
+
 <p align="center">See the <a href="./CHANGELOG.md">Changelog</a> for updates, fixes, and upgrades(past, present, coming).</p>
 
 Save thousands of lines of code by building universal, domain-agnostic Multi-Agent Systems (MAS) using the ultimate new programming language:
@@ -171,6 +174,8 @@ The `Universal_Context_Engine.ipynb` version runs a list of explicit scenarios f
 | <ul><li>🐬Universal_Context_Engine.ipynb - March 14, 2026 update of the January 24, 2026 Release: **OpenAI gpt-5.4**</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/Context-Engineering-for-Multi-Agent-Systems/blob/main/Chapter10/Universal_Context_Engine.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems/blob/main/Chapter10/Universal_Context_Engine.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/Denis2054/Context-Engineering-for-Multi-Agent-Systems/blob/main/Chapter10/Universal_Context_Engine.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
 The `Universal_Context_Engine_UI.ipynb`provides an IPython interface for interactive sessions that highlights how the industry is converging toward domain‑agnostic, environment‑driven agentic systems built on transparent, context‑rich architectures. 
 | <ul><li>🐬Universal_Context_Engine_Gradio_UI.ipynb - **June 3, 2026 Release**</li></ul> | <a href="https://colab.research.google.com/github/Denis2054/Context-Engineering-for-Multi-Agent-Systems/blob/main/Chapter10/Universal_Context_Engine_Gradio_UI.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a><br> | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems/blob/main/Chapter10/Universal_Context_Engine_Gradio_UI.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | <a href="https://studiolab.sagemaker.aws/import/github/Denis2054/Context-Engineering-for-Multi-Agent-Systems/blob/main/Chapter10/Universal_Context_Engine_Gradio_UI.ipynb"><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In Studio Lab"></a><br> |
+The `Universal_Context_Engine_Gradio_UI.ipynb` can serve as an alternative to the IPython widget interface, providing a full **Gradio web application** that generates a live public URL directly from Colab. The same Glass Box engine runs unchanged underneath — only the presentation layer is new. The app can also be exported as `app.py` and deployed permanently to **Hugging Face Spaces** or any container host, making it the recommended interface for demos, workshops, and stakeholder presentations.
+
 
 ![Context Engineering Production Blueprint](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems/raw/main/Chapter10/context_engineering_blueprint.svg)
 </details>
